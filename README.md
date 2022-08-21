@@ -26,6 +26,14 @@ As part of the solution we're including an app that can be used by members of th
 
 ![](Graphics/combined.png)
 
+## Data Processing 
+[Rec Area Data] (https://www.data.qld.gov.au/dataset/built-features-queensland-series/resource/8cc4416e-0f0a-445b-9e90-9a1318366fa2)
+[LGA Data] (https://www.data.qld.gov.au/dataset/local-government-area-boundaries-queensland)
+
+We’ve used data from the Queensland Government to source potential locations of the microfarms. We used a vectorised spatial dataset about local government area boundaries and converted it into coordinates using QGIS. We’ve then used a second vectorised spatial dataset about every recreational area in the state. From this recreational area data set, we've kept only the parks and botanical gardens. We’ve then combined the information in both datasets to classify every park in Queensland into its local government area. We've then removed parks and local government areas that are rural or reigonal. Then, we've used a notebook to collate the parks available in each LGA that can be a potential community microfarm. 
+
+This is just the beginning of this data-based solution. If we had more time, we would've used more data to find out exactly which parks were more suitable for community garden than others. e.g. a large park with dwindling visitor numbers would be a good candidate for a potential microfarm. Likewise, census time series profiles could be used to track which lgas have the largest increases in high density apartments etc. This would identify a populace without backyards that required community gardens more than other LGAs with plenty of single-unit housing. 
+
 ## Raw Data Analysis
 * [Rec Area Raw Data](Data_Analytics/Recreation_areas.shp)
   Raw Spatial Data from Queensland Government about all recreational areas in Queensland 
