@@ -27,8 +27,10 @@ As part of the solution we're including an app that can be used by members of th
 ![](Graphics/combined.png)
 
 ## Raw Data Analysis
-* [Rec Area Raw Data] Raw Spatial Data from Queensland Government about all recreational areas in Queensland (Data_Analytics/Recreation_areas.shp)
-* [LGA Raw Data] Raw Spatial Data from Queensland Government about local government areas in Queensland (Data_Analytics/Local_Government_Areas.shp)
+* [Rec Area Raw Data](Data_Analytics/Recreation_areas.shp)
+  Raw Spatial Data from Queensland Government about all recreational areas in Queensland 
+* [LGA Raw Data](Data_Analytics/Local_Government_Areas.shp)
+  Raw Spatial Data from Queensland Government about local government areas in Queensland 
 * [Consumer Price Index (CPI) and wages](Data_Analytics/Data.ipynb)
 * [Parks and LGAs](Data_Analytics/ParksToLGA.ipynb)
 * [Processed Spatial Data](https://drive.google.com/drive/folders/1IiSZHWv2ENhMNbnsD0aOi2NgwzbNHjbe)
