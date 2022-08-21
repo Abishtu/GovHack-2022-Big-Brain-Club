@@ -29,3 +29,6 @@ As part of the solution we're including an app that can be used by members of th
 ## Raw Data Analysis
 * [Consumer Price Index (CPI) and wages](Data_Analytics/Data.ipynb)
 * [Parks and LGAs](Data_Analytics/ParksToLGA.ipynb)
+* [Processed Spatial Data](https://drive.google.com/drive/folders/1IiSZHWv2ENhMNbnsD0aOi2NgwzbNHjbe)
+	* `vals.csv` is processed spatial data of the recreational areas into _(x,y)_ coordinates.
+	* `vertex4.csv` is processed spatial data of LGA boundaries into _(x,y)_ coordinates. The processing was completed by extracting vertices in QGIS.
