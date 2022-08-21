@@ -7,7 +7,7 @@ Exploring the feasibility of creating a microfarming economy. Whether through co
 ## App
 As part of the solution we're including an app that can be used by members of the community to interact with their community farms, they can use the app to 
   * Check for availability of grown produce and transplants.
-  * Find opertutnities to volunteer at the farm
+  * Find opertutnities to volunteer at the farm (minimum of 1 hour)
   * Have access to a daily overview of the farm, this includes information like
     * Stock availability of produce and transplants
     * News and updates on the farm an how its engaging with the community.
