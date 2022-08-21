@@ -1,5 +1,10 @@
 # GovHack 2022
 * **Team: The Big Brain Club**
+	* Harikesha Suresh
+	* Liam Bluett
+	* Siwan Li
+	* Arshia Sharma
+	* Ayush Jain
 * **Project: Microfarming at scale**
 
 ![](Graphics/Big_Brain_Crest.svg)
