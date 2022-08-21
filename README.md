@@ -40,7 +40,11 @@ This is just the beginning of this data-based solution. If we had more time, we 
 * [LGA Raw Data](Data_Analytics/Local_Government_Areas.shp)
   Raw Spatial Data from Queensland Government about local government areas in Queensland 
 * [Consumer Price Index (CPI) and wages](Data_Analytics/Data.ipynb)
+	* In this file, exploratory data analysis was conducted to find a correlation between wage growth and the CPI for Fruit and Vegetables. Using the 	  * ABS data, no immediate correlation was found between the two variables. However, the CPI experiences significantly greater swings in price than t
+	* WPI. Finally, it can be seen that the WPI growth is slowing down, highlighting the need for sustainable and cheap access to fresh produce.
 * [Parks and LGAs](Data_Analytics/ParksToLGA.ipynb)
 * [Processed Spatial Data](https://drive.google.com/drive/folders/1IiSZHWv2ENhMNbnsD0aOi2NgwzbNHjbe)
 	* `vals.csv` is processed spatial data of the recreational areas into _(x,y)_ coordinates.
 	* `vertex4.csv` is processed spatial data of LGA boundaries into _(x,y)_ coordinates. The processing was completed by extracting vertices in QGIS.
+
+
