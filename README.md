@@ -25,3 +25,7 @@ As part of the solution we're including an app that can be used by members of th
     * News and updates on the farm an how its engaging with the community.
 
 ![](Graphics/combined.png)
+
+## Raw Data Analysis
+* [Consumer Price Index (CPI) and wages](Data_Analytics/Data.ipynb)
+* [Parks and LGAs](Data_Analytics/ParksToLGA.ipynb)
